@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <Link to="/" className="text-xl font-bold flex items-center gap-2">
             <img src="/placeholder.svg" alt="Logo" className="w-8 h-8" />
-            Raigon High
+            RAIGAON HIGH SCHOOL
           </Link>
 
           {/* Desktop Menu */}
