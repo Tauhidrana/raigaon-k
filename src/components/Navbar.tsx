@@ -21,7 +21,11 @@ const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <Link to="/" className="text-xl font-bold flex items-center gap-2">
-            <img src="/placeholder.svg" alt="Logo" className="w-8 h-8" />
+            <img 
+              src="/school-logo.png" 
+              alt="RAIGAON HIGH SCHOOL" 
+              className="w-12 h-12 object-cover rounded-lg"
+            />
             RAIGAON HIGH SCHOOL
           </Link>
 
